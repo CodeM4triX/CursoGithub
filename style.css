@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: cetner;
+    align-items: center;
+}
+.container{
+    position: relative;
+    top: center;
+    align-items: center;
+    transform: translateX(-50%), translateY(-50%);
+    width: 300px;
+    height: 100px;
+    border: 1px solid #333;
+}
